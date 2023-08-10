@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/mee-about.png'
 import { FaAward } from 'react-icons/fa'
 import { FiUser} from 'react-icons/fi'
 import { VscFolderLibrary} from 'react-icons/vsc'
@@ -34,17 +34,17 @@ const About = () => {
             <article className="about__card">
               <FiUser className='about__icon' />
               <h5>clients</h5>
-              <small>100+ Worldwide</small>
+              <small>15+ Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>30+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto ad veritatis ab similique voluptas minima dolorum, nobis vero, doloremque suscipit nesciunt asperiores hic quasi ut neque repudiandae? Aperiam, soluta molestiae. Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+          <p> Talented Software Developer equipped with great coding, debuggingand project management abilities. Accomplishes project goalsconsistently with elegant, scalable code. Works great with teammembers under Agile and Scrum frameworks. Highly-motivated withdesire to take on new challenges. Adept at working effectivelyunsupervised and quickly mastering new skills.</p>
           <a href="#contact" className='btn btn-primary'> Lets Talk</a>
         </div>
       </div>

@@ -20,26 +20,19 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Snow',
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae nam eligendi odit natus quidem numquam perferendis, laudantium officia, veritatis provident illum pariatur. Dignissimos, quaerat animi ut ex suscipit, unde ab voluptates totam aut repudiandae doloribus perferendis repellat ea minima optio."
+    name: 'Tina Smith',
+    review: "I would not hesitate to work with Mercy again. His attitude, availability, communication, and responsibility were among the best I've worked with."
 
   },
   {
     avatar: AVTR2,
-    name: 'Elon Musk',
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae nam eligendi odit natus quidem numquam perferendis, laudantium officia, veritatis provident illum pariatur. Dignissimos, quaerat animi ut ex suscipit, unde ab voluptates totam aut repudiandae doloribus perferendis repellat ea minima optio."
-
+    name: 'Josh Andrew',
+    review: "Mercy is a very talented coder, super fast and efficient. He can handle any complex coding challenge. I hope to work with him again, and definitely recommend him for any task."
   },
   {
     avatar: AVTR3,
-    name: 'Bill Gate',
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae nam eligendi odit natus quidem numquam perferendis, laudantium officia, veritatis provident illum pariatur. Dignissimos, quaerat animi ut ex suscipit, unde ab voluptates totam aut repudiandae doloribus perferendis repellat ea minima optio."
-
-  },
-  {
-    avatar: AVTR4,
-    name: 'Jeff Bezos',
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae nam eligendi odit natus quidem numquam perferendis, laudantium officia, veritatis provident illum pariatur. Dignissimos, quaerat animi ut ex suscipit, unde ab voluptates totam aut repudiandae doloribus perferendis repellat ea minima optio."
+    name: 'John.S Code',
+    review: "Thanks Mercy! It was great to work with you and I hope we can work together again sometime in the future!"
 
   },
 ]
